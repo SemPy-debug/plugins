@@ -1,5 +1,5 @@
 ---
-name: scrollytelling-and-parallax-data-visualization
+name: scrollytelling-visualization
 description: Design and implement parallax scrolling and scrollytelling data visualizations. Use when the user asks for parallax scrolling, scrollytelling, scroll-driven timelines, sticky graphics, Scrollama, ScrollTrigger, ScrollTimeline, view timelines, rich-media timelines, moviescrollers, scroll-scrubbed charts, staged narrative reveals, or interactive visual stories where scrolling changes a data visualization or media scene.
 ---
 

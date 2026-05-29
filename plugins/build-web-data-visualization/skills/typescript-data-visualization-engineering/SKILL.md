@@ -1,5 +1,5 @@
 ---
-name: typescript-data-visualization-engineering
+name: typescript-data-visualization
 description: Build typed data visualizations in TypeScript. Use when the user wants TypeScript visualization code, typed data models, browser visualization components, UML-like diagram models, interactive graph or architecture diagram contracts, scroll-driven scene contracts, library selection guidance, or a maintainable visualization architecture beyond React- or Next-specific concerns.
 ---
 
